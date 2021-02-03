@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="${descVersion}">
+	<author>${author}</author>
+	<version>${version}</version>
+	<title>
+		<en>${title}</en>
+	</title>
+	<description>
+		<en>
+			<![CDATA[
+En description
+]]>
+		</en>
+		<de>
+			<![CDATA[
+De description
+]]>
+		</de>
+		<fr>
+			<![CDATA[
+Fr description
+]]>
+		</fr>
+	</description>
+	<multiplayer supported="true" />
+	<iconFilename>icon.png</iconFilename>
+	<specializations>
+		<specialization name="aiVehicleExtension" className="AIVehicleExtension" filename="AIVehicleExtension.lua" />
+	</specializations>
+	<extraSourceFiles>
+		<sourceFile filename="utility/Main.lua" />
+		<sourceFile filename="rmod/Main.lua" />
+		<sourceFile filename="betterHelpersLimit.lua" />
+	</extraSourceFiles>
+</modDesc>
