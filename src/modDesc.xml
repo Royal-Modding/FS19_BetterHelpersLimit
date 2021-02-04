@@ -8,17 +8,20 @@
 	<description>
 		<en>
 			<![CDATA[
-En description
+In multiplayer the limit of helpers you can hire depends on the number of players online. This implies that if another farm hires helpers before yours, you won't be able to hire any more helpers.
+With this mod, the limiter also takes into account which farm is hiring the helpers so that each farm can always hire the same amount of them.
 ]]>
 		</en>
 		<de>
 			<![CDATA[
-De description
+Im Mehrspielermodus hängt die Anzahl der Helfer, die Sie einstellen können, von der Anzahl der Spieler ab, die online sind. Das bedeutet, dass Sie keine weiteren Helfer mehr einstellen können, wenn eine andere Farm vor der Ihren Helfer einstellt.
+Mit dieser Mod berücksichtigt der Begrenzer auch, welche Farm die Helfer anheuert, so dass jede Farm immer die gleiche Anzahl von ihnen anheuern kann.
 ]]>
 		</de>
 		<fr>
 			<![CDATA[
-Fr description
+En mode multijoueur, la limite des aides que vous pouvez engager dépend du nombre de joueurs en ligne. Cela signifie que si une autre ferme embauche des aides avant la vôtre, vous ne pourrez pas en embaucher d'autres.
+Avec ce mode, le limiteur tient également compte de la ferme qui embauche les assistants afin que chaque ferme puisse toujours en embaucher le même nombre.
 ]]>
 		</fr>
 	</description>

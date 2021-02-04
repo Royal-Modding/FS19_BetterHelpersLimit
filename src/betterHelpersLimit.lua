@@ -9,9 +9,9 @@ InitRoyalMod(Utils.getFilename("rmod/", g_currentModDirectory))
 
 BetterHelpersLimit = RoyalMod.new(r_debug_r, false)
 
-function BetterHelpersLimit:onUpdate()
-    g_currentMission.maxNumHirables = 1
-end
+--function BetterHelpersLimit:onUpdate()
+--    g_currentMission.maxNumHirables = 1
+--end
 
 function BetterHelpersLimit:onValidateVehicleTypes(vehicleTypeManager, addSpecialization, addSpecializationBySpecialization, addSpecializationByVehicleType, addSpecializationByFunction)
     addSpecializationBySpecialization("aiVehicleExtension", "aiVehicle")
