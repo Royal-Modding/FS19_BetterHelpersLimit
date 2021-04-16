@@ -20,8 +20,8 @@ Mit dieser Mod berücksichtigt der Begrenzer auch, welche Farm die Helfer anheue
 		</de>
 		<fr>
 			<![CDATA[
-En mode multijoueur, la limite des aides que vous pouvez engager dépend du nombre de joueurs en ligne. Cela signifie que si une autre ferme embauche des aides avant la vôtre, vous ne pourrez pas en embaucher d'autres.
-Avec ce mode, le limiteur tient également compte de la ferme qui embauche les assistants afin que chaque ferme puisse toujours en embaucher le même nombre.
+En mode multijoueur, la limite des ouvriers que vous pouvez engager dépend du nombre de joueurs en ligne. Cela signifie que si une autre ferme embauche des ouvriers avant la vôtre, vous ne pourrez pas en embaucher d'autres.
+Avec ce mode, la limite tient également compte de la ferme qui embauche les ouvriers afin que chaque ferme puisse toujours en embaucher le même nombre.
 ]]>
 		</fr>
 	</description>
